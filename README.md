@@ -7,30 +7,38 @@ real-world website layouts.
 > affiliated with, endorsed by, or connected to Amazon in any way.
 > All trademarks belong to their respective owners.
 
-## About
-I built this project to practice recreating a large, real-world page layout,
-including the navigation bar, search bar, product sections, and footer.
-
 ## Features
-- Navigation bar with logo, search box, and account/cart links
-- Hero banner section
-- Product cards 
-- Footer with link columns
+- Dark navigation bar with logo, delivery location, search bar, account, returns and cart
+- Secondary menu bar (Today's Deals, Customer Service, Registry, Gift Cards, Sell)
+- Hero banner slider with previous/next arrows
+- Category cards  (Health & Care, Electronics, Fashion,
+  Beauty, Home & Kitchen, Sports, Toys, Books, Furniture, Grocery, Baby Care, Automotive)
+- Multi-column footer with link sections
+- Back to Top bar
 
 ## Technologies Used
 - HTML5
-- CSS3 (Flexbox)
+- CSS3 (Flexbox, Grid)
+
+## Screenshots
+
+### Header and Hero Banner
+![Header and hero banner](screenshot1.png)
+
+### Category Cards
+![Category cards](screenshot2.png)
+
+### More Categories
+![More categories](screenshot3.png)
+
+### Footer
+![Footer](screenshot4.png)
 
 ## How to Run
 1. Clone the repository:
-   `git clone https://github.com/muqadds147/CSS-Project.git`
+   `git clone https://github.com/muqaddas147/CSS-Project.git`
 2. Open the folder in VS Code
 3. Right-click `index.html` and choose **Open with Live Server**
-   (or just open `index.html` in your browser)
-
-## What I Learned
-- Building multi-section layouts with Flexbox 
-- Styling navigation bars and product cards
 
 ## Author
-Muqaddas Khizar -(https://github.com/muqaddas147)
+Muqaddas - [GitHub profile](https://github.com/muqaddas147)
